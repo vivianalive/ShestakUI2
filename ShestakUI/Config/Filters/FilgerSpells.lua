@@ -1357,7 +1357,7 @@ C["filger_spells"] = {
 		},
 		{
 			Name = "P_PROC_ICON",
-			Direction = "RIGHT",
+			Direction = "LEFT",
 			Mode = "ICON",
 			Interval = C.filger.buffs_space,
 			Alpha = 1,
